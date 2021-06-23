@@ -15,7 +15,7 @@ resources:
       buildName: BUILD-A
       buildNumber: $run_number
 pipelines:
-  - name: Pipeline1
+  - name: Pipeline2
     configuration:
       environmentVariables:
         readOnly:
